@@ -1,6 +1,4 @@
-### dassproject
-
-** Secure Document Sharing Platform for Startups and Investors **
+### Secure Document Sharing Platform for Startups and Investors
 This platform was meticulously designed, planned, and developed entirely from scratch to facilitate secure and efficient sharing of critical documents between startups and investors. Every aspect, from initial site planning and design to coding and final pitching, was handled end-to-end to ensure an intuitive user experience, robust security, and scalability. The platform incorporates modern web technologies and best practices, reflecting a comprehensive and innovative approach to solving real-world challenges in document sharing.
 
 ### Features
